@@ -38,9 +38,14 @@ Running from source requires minimal experience with:
 <details>
 <summary>▶ Click to see the process</summary>
 Installation
-Python (3.12 recommended)
-pip
-git
+- Python (3.12 recommended)
+- pip
+- git
+
+### Установка / обновление yt-dlp (рекомендуется)
+
+```bash
+python -m pip install --user -U yt-dlp
 
  python -m pip install --user -U yt-dlp
 
