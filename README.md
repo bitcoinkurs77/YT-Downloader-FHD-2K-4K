@@ -14,6 +14,7 @@ In other words, you get exactly the same quality that YouTube gives on the serve
 - The simplest interface - literally 1-2 windows
 - Does not require manual installation of ffmpeg / yt-dlp (everything is built into the .exe version)
 - Minimalistic and clear design
+🎞️ If the video does not support 4K, 2K, or Full HD, the YT-Downloader will use the best available resolution, such as 720p, 480p, or 360p.
 
 ⭐ If the program is convenient, give the repository a star!
 
