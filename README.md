@@ -37,9 +37,12 @@ Running from source requires minimal experience with:
 
 <details>
 <summary>▶ Click to see the process</summary>
+Installation
+Python (3.12 recommended)
+pip
+git
 
-
-
+ python -m pip install --user -U yt-dlp
 
 ## ⚠️ Disclaimer / Liability Disclaimer
 
