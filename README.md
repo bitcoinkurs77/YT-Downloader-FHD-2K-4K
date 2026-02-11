@@ -20,7 +20,7 @@ In other words, you get exactly the same quality that YouTube gives on the serve
 ⭐ If the program is convenient, give the repository a star!
 
 ## Screenshots
-### Главное окно программы
+### Main Window
 ![Main Window](YT-demo.gif)
 <!-- или если GIF: -->
 
