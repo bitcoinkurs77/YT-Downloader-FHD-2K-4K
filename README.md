@@ -29,7 +29,7 @@ In other words, you get exactly the same quality that YouTube gives on the serve
 
 
 
-💻 Installation (Manual)
+##💻 Installation (Manual)
 **Basic skills are required**  
 Running from source requires minimal experience with:
 - Git (clone repository)
